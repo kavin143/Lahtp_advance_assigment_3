@@ -103,6 +103,16 @@ Each client logs in/registers and joins the chat.
 
 ---
 
+Sample output:
+1)
+<img width="1879" height="904" alt="image" src="https://github.com/user-attachments/assets/a119ec1f-464a-4dbe-9fb2-6dd0eeafac05" />
+2)
+<img width="1821" height="943" alt="image" src="https://github.com/user-attachments/assets/7ea43773-004c-484b-98c5-ec26c034c04b" />
+3)
+<img width="1582" height="694" alt="image" src="https://github.com/user-attachments/assets/31430924-1c53-4159-8910-52e4895f2332" />
+
+
+
 ## 🔑 Security Design
 
 * **Transport Encryption (Server ↔ Clients):**
@@ -146,6 +156,6 @@ Each client logs in/registers and joins the chat.
 * Run server first, then clients.
 * For deployment, replace `localhost` with a server IP/hostname.
 
-Sample output:
-<img width="1910" height="993" alt="image" src="https://github.com/user-attachments/assets/d89ae9eb-54c5-4fbc-af65-fcf8d3442da2" />
+
+
 
